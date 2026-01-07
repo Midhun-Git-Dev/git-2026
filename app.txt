@@ -1,2 +1,2 @@
-echo "This is my First git app"
+echo "This is my First git app and on today i ging to complete my Git and GitHub Journey"
 echo "This only  time i am going to use git diff"
